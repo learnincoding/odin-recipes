@@ -1,0 +1,41 @@
+
+
+* {
+    color:brown;
+    background-color: bisque;
+}
+
+.hate {
+    color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: Aqua;
+
+}
+
+.ingredients {
+    align-items: center;
+    font-weight: 700;
+    color: blueviolet;
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+
+.mouth,
+.ingredients,
+.steps {
+    font-size: 50px;
+}
+
+.spoon {
+    font-size: 30px;
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkcyan;
+}
+
+.koke {
+    color: green;
+    font-size: 70px;
+}
